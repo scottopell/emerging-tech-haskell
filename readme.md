@@ -12,6 +12,14 @@ Each homework is due (turned in via email to advisor) by the start of the follow
 
 So homework 1 is due by the start of week 2. Each session starts on Monday, so homework 1 is due by the Sunday at 11:59pm
 
+## Grading
+
+The class is pass/fail. A pass will be awarded if greater than 60% of the homework assignments are completed on time and the final project is completed on time. A fail will be assigned if the final project is not completed or 60% or less of the homework assignments are completed. 
+
+## Late work
+
+No late work is accepted. However, assignments and projects may be turned in early.
+
 ##Week 1: Introduction to Haskell
 
 Lecture: http://www.seas.upenn.edu/~cis194/lectures/01-intro.html
